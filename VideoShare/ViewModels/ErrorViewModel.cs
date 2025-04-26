@@ -1,4 +1,4 @@
-namespace VideoShare.Models
+namespace VideoShare.ViewModels
 {
     public class ErrorViewModel
     {

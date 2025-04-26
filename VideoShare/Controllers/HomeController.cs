@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using VideoShare.Models;
+using Microsoft.Extensions.Logging;
+using VideoShare.ViewModels;
 
 namespace VideoShare.Controllers
 {
